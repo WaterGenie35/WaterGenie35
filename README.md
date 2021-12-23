@@ -11,10 +11,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 <br />
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2311a.svg?style=flat&logo=mysql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
@@ -38,13 +38,20 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+#### Values
+
+![Coherency](https://img.shields.io/badge/Coherency-94C691?style=flat)
+![Consistency](https://img.shields.io/badge/Consistency-94C691?style=flat)
+![Best Practices](https://img.shields.io/badge/Best%20Practices-94C691?style=flat)
+![Documentation](https://img.shields.io/badge/Documentation-94C691?style=flat)
+
 #### Interests
 
-![Chess](https://img.shields.io/badge/Chess-94C691?style=flat)
-![Maths](https://img.shields.io/badge/Mathematics-9BD6D9?style=flat)
-![Philosophy](https://img.shields.io/badge/Philosophy-B4A8E0?style=flat)
-![Archery](https://img.shields.io/badge/Archery-F3EBA5?style=flat)
-![Japan](https://img.shields.io/badge/Japan-ED8E89?style=flat)
+![Chess](https://img.shields.io/badge/Chess-8BB6C9?style=flat)
+![Maths](https://img.shields.io/badge/Mathematics-8BB6C9?style=flat)
+![Philosophy](https://img.shields.io/badge/Philosophy-8BB6C9?style=flat)
+![Archery](https://img.shields.io/badge/Archery-8BB6C9?style=flat)
+![Japan](https://img.shields.io/badge/Japan-8BB6C9?style=flat)
 
 #### Contact
 
