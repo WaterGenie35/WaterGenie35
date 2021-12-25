@@ -55,6 +55,13 @@
 
 #### Contact
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
-![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white)
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right" valign="middle"><a style="display:inline-block; line-height:0;" href="https://www.linkedin.com/in/jirapat-treyanurak-7aaba5a6/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a></td>
+    <td>Jirapat Treyanurak</td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><a href="mailto:j.treyanurak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a></td>
+    <td>j.treyanurak@gmail.com</td>
+  </tr>
+</table>
