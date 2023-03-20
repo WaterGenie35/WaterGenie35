@@ -46,6 +46,7 @@
 
 ![Coherency](https://img.shields.io/badge/Coherency-94C691?style=flat)
 ![Consistency](https://img.shields.io/badge/Consistency-94C691?style=flat)
+![Simplicity](https://img.shields.io/badge/Simplicity-94C691?style=flat)
 ![Best Practices](https://img.shields.io/badge/Best%20Practices-94C691?style=flat)
 ![Documentation](https://img.shields.io/badge/Documentation-94C691?style=flat)
 
