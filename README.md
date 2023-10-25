@@ -57,8 +57,3 @@
 ![Philosophy](https://img.shields.io/badge/Philosophy-8BB6C9?style=flat)
 ![Archery](https://img.shields.io/badge/Archery-8BB6C9?style=flat)
 ![Japan](https://img.shields.io/badge/Japan-8BB6C9?style=flat)
-
-#### Contact
-
-<a style="display:inline-block; line-height:0;" href="https://www.linkedin.com/in/jirapat-treyanurak-7aaba5a6/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:j.treyanurak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
